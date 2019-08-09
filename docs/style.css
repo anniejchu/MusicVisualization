@@ -275,13 +275,13 @@ body a:hover
 
 h1.big-title
 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 56px;
     font-weight: 700;
     line-height: 100%;
     padding-top: 100px;
     color: #fff;
-    letter-spacing: -1px;
+    letter-spacing: 10px;
     width: 95%;
     margin-left: auto;
     margin-right: auto;
@@ -294,7 +294,7 @@ h1.big-title
 
 .title-desc
 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 22px;
     line-height: 26px;
     max-width: 333px;
@@ -699,7 +699,7 @@ div.pp_default .pp_loaderIcon
     transition: color 0.5s ease;
     font-size: 18px;
     line-height: 100%;
-    font-weight: 700;
+    font-weight: 200;
     display: block;
     line-height: 20px;
 }
