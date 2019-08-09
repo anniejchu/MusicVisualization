@@ -315,18 +315,18 @@ h1.big-title
 
 /* SERVICE SECTION */
 
-#services
+#project
 {
     background-color: #221c5a;
     z-index: 9;
 }
 
-#services .section-title-holder
+#project .section-title-holder
 {
     background-color: #32DB8A
 }
 
-#services .section-title-holder span
+#project .section-title-holder span
 {
     color: #55B286;
 }
@@ -365,7 +365,7 @@ h1.big-title
 
 /* PORTFOLIO SECTION */
 
-#portfolio
+#idea
 {
     background-color: #221C5A;
     background-image: url("demo-images/background_img_02.jpg");
@@ -375,12 +375,12 @@ h1.big-title
     z-index: 8;
 }
 
-#portfolio .section-title-holder
+#idea .section-title-holder
 {
     background-color: rgb(255, 186, 66);
 }
 
-#portfolio .section-title-holder span
+#idea .section-title-holder span
 {
     color: #e3a436;
 }
@@ -562,7 +562,7 @@ div.pp_default .pp_loaderIcon
 
 /* ABOUT SECTION */
 
-#about
+#process
 {
     background-color: rgb(34, 28, 90);
     background-image: url("demo-images/background_img_03.jpg");
@@ -572,17 +572,17 @@ div.pp_default .pp_loaderIcon
     z-index: 7;
 }
 
-#about .section-title-holder
+#process .section-title-holder
 {
     background-color: #e64b77;
 }
 
-#about .section-title-holder span
+#process .section-title-holder span
 {
     color: #b24564;
 }
 
-#about .section-content-holder
+#process .section-content-holder
 {
     padding-bottom: 0;
 }
