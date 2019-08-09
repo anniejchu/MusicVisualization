@@ -648,7 +648,10 @@ div.pp_default .pp_loaderIcon
     background-size: cover;
     z-index: 6;
 }
-
+#team .section-title-holder
+{
+    background-color: #e64b77;
+}
 .blog-item-holder
 {
     padding: 35px 0;
