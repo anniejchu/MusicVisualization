@@ -649,11 +649,6 @@ div.pp_default .pp_loaderIcon
     z-index: 6;
 }
 
-#team .section-title-holder span
-{
-    color: #89cff0;
-}
-
 .blog-item-holder
 {
     padding: 35px 0;
@@ -671,7 +666,7 @@ div.pp_default .pp_loaderIcon
     width: 110px;
     font-size: 48px;
     font-weight: 900;
-    color: #56bad6;
+    color: #32DB8A;
 }
 
 .blog-item-holder .info
