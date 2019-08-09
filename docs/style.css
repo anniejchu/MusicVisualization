@@ -278,8 +278,9 @@ h1.big-title
     font-family: 'Roboto', sans-serif;
     font-size: 56px;
     font-weight: 700;
-    line-height: 100%;
+    line-height: 120%;
     padding-top: 100px;
+    padding-bottom: 60px
     color: #fff;
     letter-spacing: 10px;
     width: 95%;
@@ -294,11 +295,12 @@ h1.big-title
 
 .title-desc
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', serif;
     font-size: 22px;
     line-height: 26px;
     max-width: 333px;
     margin: 0 auto;
+    letter-spacing: 10px
     color: #fff;
 }
 
@@ -607,10 +609,10 @@ div.pp_default .pp_loaderIcon
 
 .member-name
 {
-    line-height: 26px;
-    font-size: 16px;
+    line-height: 40px;
+    font-size: 26px;
     font-weight: 700;
-    padding: 0;
+    padding: 26px;
 }
 
 .member-position
@@ -699,9 +701,9 @@ div.pp_default .pp_loaderIcon
     transition: color 0.5s ease;
     font-size: 18px;
     line-height: 100%;
-    font-weight: 200;
+    font-weight: 100;
     display: block;
-    line-height: 20px;
+    line-height: 30px;
 }
 
 .latest-post-bottom-text
