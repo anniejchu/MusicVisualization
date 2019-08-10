@@ -315,7 +315,7 @@ h1.big-title
 
 
 
-/* SERVICE SECTION */
+/* PROJECT SECTION */
 
 #project
 {
@@ -324,7 +324,7 @@ h1.big-title
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  z-index: 7;
+  z-index: auto;
 }
 
 #project .section-title-holder
@@ -378,7 +378,7 @@ h1.big-title
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  z-index: 7;
+  z-index: auto;
 }
 
 #idea .section-title-holder
