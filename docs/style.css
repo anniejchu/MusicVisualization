@@ -262,7 +262,7 @@ body a:hover
     background-color: #221c5a;
     background-image:url(images/recordbackground.jpg);
     background-repeat: repeat;
-    background-position: center top;
+    background-position: center center;
     background-size: cover;
     z-index: 10;
 }
@@ -319,8 +319,11 @@ h1.big-title
 
 #project
 {
-    /* background-color: #221c5a; */
+    background-color: #221c5a;
     background-image: url("images/recordbackground.jpg");
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: cover;
     z-index: 9;
 }
 
@@ -370,11 +373,11 @@ h1.big-title
 
 #idea
 {
-    /* background-color: #221C5A; */
+    background-color: #221C5A;
     background-image: url("images/recordbackground.jpg");
     background-repeat: no-repeat;
-    background-position: center top;
-    background-size: auto;
+    background-position: center center;
+    background-size: cover;
     z-index: 8;
 }
 
@@ -570,7 +573,7 @@ div.pp_default .pp_loaderIcon
     background-color: rgb(34, 28, 90);
     background-image: url("images/recordbackground.jpg");
     background-repeat: no-repeat;
-    background-position: center top;
+    background-position: center center;
     background-size: cover;
     z-index: 7;
 }
