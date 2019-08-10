@@ -319,7 +319,7 @@ h1.big-title
 
 #project
 {
-    background-color: #221c5a;
+    /* background-color: #221c5a; */
     background-image: url("images/recordbackground.jpg");
     z-index: 9;
 }
@@ -370,7 +370,7 @@ h1.big-title
 
 #idea
 {
-    background-color: #221C5A;
+    /* background-color: #221C5A; */
     background-image: url("images/recordbackground.jpg");
     background-repeat: no-repeat;
     background-position: center top;
