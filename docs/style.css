@@ -323,7 +323,7 @@ h1.big-title
   background-image: url("images/recordbackground.jpg");
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover;
+  background-size: auto;
   z-index: auto;
 }
 
@@ -377,7 +377,7 @@ h1.big-title
   background-image: url("images/recordbackground.jpg");
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover;
+  background-size: auto;
   z-index: auto;
 }
 
