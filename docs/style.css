@@ -616,7 +616,8 @@ div.pp_default .pp_loaderIcon
     line-height: 40px;
     font-size: 26px;
     font-weight: 700;
-    padding: 26px;
+    padding-bottom: 15px;
+
 }
 
 .member-position
@@ -626,6 +627,7 @@ div.pp_default .pp_loaderIcon
     padding-bottom: 50px;
     color: #ee87a4;
     letter-spacing: 4px;
+    text-transform: uppercase;
 }
 
 .member-content
