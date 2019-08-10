@@ -319,12 +319,12 @@ h1.big-title
 
 #project
 {
-    background-color: #221c5a;
-    background-image: url("images/recordbackground.jpg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    z-index: 7;
+  background-color: rgb(34, 28, 90);
+  background-image: url("images/recordbackground.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  z-index: 7;
 }
 
 #project .section-title-holder
@@ -373,12 +373,12 @@ h1.big-title
 
 #idea
 {
-    background-color: #221C5A;
-    background-image: url("images/recordbackground.jpg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    z-index: 7;
+  background-color: rgb(34, 28, 90);
+  background-image: url("images/recordbackground.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  z-index: 7;
 }
 
 #idea .section-title-holder
@@ -633,6 +633,7 @@ div.pp_default .pp_loaderIcon
 .member-content
 {
     line-height: 26px;
+    padding-bottom: 14px;
 }
 
 .image-slider-wrapper.img .image-slider li img
