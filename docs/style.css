@@ -321,10 +321,10 @@ h1.big-title
 {
     background-color: #221c5a;
     background-image: url("images/recordbackground.jpg");
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    z-index: 9;
+    z-index: 7;
 }
 
 #project .section-title-holder
@@ -378,7 +378,7 @@ h1.big-title
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    z-index: 8;
+    z-index: 7;
 }
 
 #idea .section-title-holder
