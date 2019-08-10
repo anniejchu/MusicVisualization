@@ -38,8 +38,8 @@ body a:hover
 
 .doc-loader img
 {
-    width: 90px;
-    height: 90px;
+    width: 150px;
+    height: 150px;
 }
 
 .content-1170
@@ -320,6 +320,7 @@ h1.big-title
 #project
 {
     background-color: #221c5a;
+    background-image: url("images/recordbackground.jpg");
     z-index: 9;
 }
 
@@ -370,7 +371,7 @@ h1.big-title
 #idea
 {
     background-color: #221C5A;
-    background-image: url("demo-images/background_img_02.jpg");
+    background-image: url("images/recordbackground.jpg");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: auto;
@@ -567,7 +568,7 @@ div.pp_default .pp_loaderIcon
 #process
 {
     background-color: rgb(34, 28, 90);
-    background-image: url("demo-images/background_img_03.jpg");
+    background-image: url("images/recordbackground.jpg");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -642,7 +643,7 @@ div.pp_default .pp_loaderIcon
 #team
 {
     background-color: rgb(34, 28, 90);
-    background-image: url("demo-images/background_img_04.jpg");
+    background-image: url("images/recordbackground.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
