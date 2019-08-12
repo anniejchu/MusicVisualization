@@ -322,8 +322,8 @@ h1.big-title
   background-color: rgb(34, 28, 90);
   background-image: url("images/recordbackground.jpg");
   background-repeat: no-repeat;
-  background-position: center center;
-  background-size: contain;
+  background-position: center;
+  background-size: cover;
   z-index: 7;
 }
 
@@ -376,8 +376,8 @@ h1.big-title
   background-color: rgb(34, 28, 90);
   background-image: url("images/recordbackground.jpg");
   background-repeat: no-repeat;
-  background-position: center center;
-  background-size: contain;
+  background-position: center;
+  background-size: auto;
   z-index: 7;
 }
 
