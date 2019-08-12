@@ -1,12 +1,8 @@
-## Software Design Spring 2019
-
-## Mini Project 4: Interactive Visualization
+# J.Chillin Music Transcender
+An interactive music visualization project created in Olin College's Software Design Spring 2019 course.
 
 ## Members
-[Annie Chu](https://github.com/anniejchu) and [Nick Bourdon](https:github.com/nbourdon1)
-
-## Project Name:
-J.CHILLIN MUSIC TRANSCENDER
+[Annie Chu](https://github.com/anniejchu) + [Nick Bourdon](https:github.com/nbourdon1)
 
 ## Description:
 This program allows a user to compare an original input song's track features with a generated similar song's through interactive display.
