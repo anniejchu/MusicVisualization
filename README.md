@@ -1,5 +1,8 @@
 # J.Chillin Music Transcender
-An interactive music visualization project created in Olin College's Software Design Spring 2019 course.
+An interactive music visualization project created in Olin College's Software Design Spring 2019 course. Enter any song you want, find a similar song, and compare track specs all in a fun and engaging program!
+
+## Website
+For more information about this project, check out our [website](https://anniejchu.github.io/MusicVisualization/)!
 
 ## Members
 [Annie Chu](https://github.com/anniejchu) + [Nick Bourdon](https:github.com/nbourdon1)
