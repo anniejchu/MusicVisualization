@@ -1,12 +1,15 @@
-Software Design Spring 2019
+## Software Design Spring 2019
 
-Mini Project 4: Interactive Visualization
+## Mini Project 4: Interactive Visualization
 
-Members: Annie Chu and Nick Bourdon
+## Members
+[Annie Chu](https://github.com/anniejchu) and [Nick Bourdon](https:github.com/nbourdon1)
 
-Project Name: J.CHILLIN MUSIC TRANSCENDER
+## Project Name:
+J.CHILLIN MUSIC TRANSCENDER
 
-Description: This program allows a user to compare an original input song's track features with a generated similar song's through interactive display.
+## Description:
+This program allows a user to compare an original input song's track features with a generated similar song's through interactive display.
 
 
 Data Sources:
@@ -15,6 +18,7 @@ Data Sources:
 
     Spotify API (to get track info and track features)
 
+## Getting Started
 
 Required packages:
 
@@ -32,6 +36,6 @@ Ex: To install pygame, write in terminal:
       pip install pygame
 
 
-Installing:
+## To Run:
 
 To install J.CHILLIN MUSIC TRANSCENDER, clone the repository and run framework.py in the terminal. You will be prompted for a song input that the program will then base off of.
