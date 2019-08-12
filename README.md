@@ -4,7 +4,7 @@ An interactive music visualization project created in Olin College's Software De
 ## Members
 [Annie Chu](https://github.com/anniejchu) + [Nick Bourdon](https:github.com/nbourdon1)
 
-## Description:
+## Description
 This program allows a user to compare an original input song's track features with a generated similar song's through interactive display.
 
 
